@@ -34,10 +34,6 @@ I'm mengxinayan.
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mengxinayan&repo=leetcode&show_owner=true"/>
 </a>
 
-<a href="https://github.com/mengxinayan/mengxinayan.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mengxinayan&repo=mengxinayan.github.io&show_owner=true"/>
-</a>
-
 ### Contact me
 
 - <https://github.com/mengxinayan>
