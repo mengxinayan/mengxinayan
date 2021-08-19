@@ -14,28 +14,33 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+### Hi there 👋
+### Some Repo
 -->
 
-### Hi there 👋
+<p align="center"> <h1 align="center"> mengxinayan </h1> </p>
 
-I'm mengxinayan.
+<p align="center">
+  <a href="https://github.com/mengxinayan" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="Elangovan Sundar" height="20" width="20" /></a>
+  <a href="https://www.linkedin.com/in/yanhoucs" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Elangovan Sundar" height="20" width="20" /></a>
+  <a href="https://mengxinayan.medium.com/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Elangovan Sundar" height="20" width="20" /></a>
+  <a href="https://www.zhihu.com/people/meng-xin-a-yan" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/zhihu.svg" alt="Elangovan Sundar" height="20" width="20" /></a> 
+</p>
 
-<a href="https://github.com/mengxinayan">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=mengxinayan&show_icons=true&include_all_commits=true&theme=buefy"/>
-</a>
-<a href="https://github.com/mengxinayan">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mengxinayan&layout=compact&theme=buefy" />
-</a>
+I'm mengxinayan. 
 
-### Some Repo
+![visitors](https://visitor-badge.glitch.me/badge?page_id=mengxinayan.mengxinayan)
 
-<a href="https://github.com/mengxinayan/leetcode">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mengxinayan&repo=leetcode&show_owner=true"/>
-</a>
+<p align="center">  
+  <a href="https://github.com/mengxinayan">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=mengxinayan&show_icons=true&include_all_commits=true&theme=buefy"/>
+  </a>
+</p>
 
-### Contact me
-
-- <https://github.com/mengxinayan>
-<!-- - <https://www.cnblogs.com/weihanli> -->
-
+<!-- 
+<p align="center"> 
+  <a href="https://github.com/mengxinayan">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mengxinayan&layout=compact&theme=buefy" />
+  </a>
+</p> 
+-->
