@@ -25,6 +25,7 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/yanhoucs" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Elangovan Sundar" height="20" width="20" /></a>
   <a href="https://mengxinayan.medium.com/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Elangovan Sundar" height="20" width="20" /></a>
   <a href="https://www.zhihu.com/people/meng-xin-a-yan" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/zhihu.svg" alt="Elangovan Sundar" height="20" width="20" /></a> 
+  <a href="https://raw.githubusercontent.com/mengxinayan/mengxinayan/main/pics/wechat_qrcode_mengxinayan.jpg" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/wechat.svg" alt="Elangovan Sundar" height="20" width="20" /></a> 
 </p>
 
 I'm mengxinayan. 
